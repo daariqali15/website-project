@@ -1,0 +1,29 @@
+html {
+    background: url("img/360_F_238563715_TT246ABsfPc7OMkIASI5wTOYiwwlf8Yz.jpg") no-repeat center fixed;
+    background-size: cover;
+  }
+  
+  body {
+      text-align: center;
+      background-color: rgb(48, 168, 156);
+      color:azure;
+      border-radius: 15px;
+      width: 600px;
+      margin: 25px auto;
+      padding: 25px 150px 50px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .nav a {
+    margin: 0px 25px;
+  }
+  
+  a {
+    color: rgb(51, 255, 0);
+  }
+  
+  a:hover {
+    color: rgb(66, 250, 19);
+    font-weight: bold;
+  }
+  

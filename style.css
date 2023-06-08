@@ -1,0 +1,32 @@
+html {
+  background: url("img/sub-buzz-1204-1644607356-24.webp") no-repeat center fixed;
+  background-size: cover;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.267);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 15px;
+    width: 600px;
+    margin: 25px auto;
+    padding: 25px 150px 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+  color:aqua
+}
+
+.nav a {
+  margin: 0px 25px;
+}
+
+a {
+  color:aqua
+}
+
+a:hover {
+  color: rgb(0, 60, 255);
+  font-weight: bold;
+}

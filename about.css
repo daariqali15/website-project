@@ -1,0 +1,28 @@
+html {
+    background: url("img/depositphotos_38971495-stock-illustration-repeating-blue-hexadecimal-background.jpg") repeat center fixed;
+    background-size: cover;
+  }
+  
+  body {
+      text-align: center;
+      background-color: rgba(255, 255, 255, 0.9);
+      border-radius: 15px;
+      width: 600px;
+      margin: 25px auto;
+      padding: 25px 150px 50px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .nav a {
+    margin: 0px 25px;
+  }
+  
+  a {
+    color: rgb(46, 126, 26);
+  }
+  
+  a:hover {
+    color: rgb(63, 207, 27);
+    font-weight: bold;
+  }
+  
